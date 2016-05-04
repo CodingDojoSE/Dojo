@@ -7,9 +7,13 @@ O  foco  deste coding dojo será  prática  de  desenvolvimento  dos seguintes s
 ● Controle de objetos inteligentes numa Internet das Coisas.
 ● Framework   para   automação   do   projeto   e   desenvolvimento   de sistemas embarcados.
 
-As vagas são limitadas pelo espaço físico e deve haver entre 14 e 30 inscritos para abertura do Dojo
-Pedidos de inscrição  devem ser enviados ao email cancian@lisha.ufsc.br (colocar assunto “Coding Dojo”)
-
 Datas: Terças-feiras, de  03/05/2016 a 05/07/2016
 Horário: 18:00 às 19:20
 Local: Laboratório INE214, INE/CTC/UF
+
+![Dojo Icon][dojo-icon]
+
+Professor responsável: Rafael Luiz Cancian
+
+[dojo-icon]: https://github.com/CodingDojoSE/Dojo/blob/master/dojo-icon.png?raw=true
+
