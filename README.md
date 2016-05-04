@@ -1,5 +1,4 @@
-Coding Dojo é uma técnica que surgiu com o objetivo de aprimorar as práticas de programação, e permite que todos os participantes pratiquem.
-Qualquer pessoa com conhecimentos de programação C++ e/ou descrição de hardware em VHDL pode se inscrever gratuitamente.
+Coding Dojo é uma técnica que surgiu com o objetivo de aprimorar as práticas de programação, e permite que todos os participantes pratiquem. Qualquer pessoa com conhecimentos de programação C++ e/ou descrição de hardware em VHDL pode participar.
 
 O  foco  deste coding dojo será  prática  de  desenvolvimento  dos seguintes softwares e hardwares embarcados:
 ● Sistema-em-Chip em FPGA com processador softcore NIOS II.
